@@ -1,0 +1,2 @@
+r = 'r = %r\nprint(r%%r)'
+print(r%r)
